@@ -22,3 +22,7 @@ Este proyecto hace uso de diversas bibliotecas para la manipulación de imágene
 ## Uso
 
 Los scripts de este repositorio permiten aplicar distintas transformaciones a imágenes, como conversión a escala de grises, detección de bordes y operaciones de filtrado.
+
+## Notas
+
+**Profesor:** Duván Gómez
